@@ -1,0 +1,5 @@
+ibm-cloud-sdk-core==3.10.0
+ibm-watson==5.2.1
+py==1.8.1
+PyAudio @ file:///D:/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+torchaudio==0.7.2
